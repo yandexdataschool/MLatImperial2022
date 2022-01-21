@@ -16,7 +16,7 @@ To maintain only updates of this repository without downloading the whole reposi
 1. Open terminal.
 2. Change to directory, where you would like to store the local copy of the repository.
 3. Type `git clone https://github.com/yandexdataschool/MLatImperial2022.git`
-4. Change to directory `MLatImperial2022` (your local copy)
+Now you have created `MLatImperial2022` folder, which is  your local copy of the repository.
 
 Next time you want to update `MLatImperial2022` just change to this directory in terminal and type `git pull`
 
