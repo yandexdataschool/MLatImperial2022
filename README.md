@@ -10,7 +10,7 @@ Please familiarize yourself with the [following brief introduction to Python and
 
 Alternatively you can open `Seminars/00-Welcome.ipynb` locally on your computer via `Jupyer notebook`.
 
-To learn how to download materials from this page, install python, run jupyter notebook locally, please read [HowTo.md](HowTo.md)
+To learn how to download materials from this page, install python, run jupyter notebook locally, please read [HowTo.md](HowTo materials).
 
 ## Contacts
 
