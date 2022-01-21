@@ -8,9 +8,16 @@
 ## Prerequisites
 Please familiarize yourself with the [following brief introduction to Python and Google Colab](https://colab.research.google.com/github/yandexdataschool/MLatImperial2022/blob/master/Seminars/Welcome.ipynb) **prior to the start of the course**. It covers briefly the main syntax of python programming language, that we'll use throughtout the course.
 
-Alternatively you can clone the repository (green [Code] button->[Download zip]) and open `Seminars/Welcome.ipynb` in `Jupyter notebook`. 
+Alternatively you can open `Seminars/Welcome.ipynb` locally on your computer via Jupyer notebook.
 
-To install it locally
+## Maintaining the local copy of the repository of this course
+
+### Option 1 (download whole repository) 
+press green [Code] button above->[Download zip].
+
+### Option 2 (update the repository, only the changes will be downloaded)
+
+#### Install repository locally (one time operation)
 1. Download [Anaconda](https://www.anaconda.com/products/individual)
 2. Run `jupyter notebook` in terminal
 
@@ -21,14 +28,15 @@ To maintain only updates of this repository without downloading the whole reposi
 
 Now you have created `MLatImperial2022` folder, which is  your local copy of the repository.
 
-Next time you want to update `MLatImperial2022` just change to this directory in terminal and type `git pull`
+#### Update to the changes
+Switch to `MLatImperial2022` folder you created and type `git pull` in terminal.
 
 ## Contacts
 
 ### Lecturer:
- -  [Victor Kitov](mailto:v.v.kitov@yandex.ru) or better text via Telegram @VictorKitov.
+ -  [Victor Kitov](mailto:v.v.kitov@yandex.ru) or better text via Telegram app @VictorKitov.
 
 ### Practical session instructors:
- -  [Irina Kitova](mailto:eremchuki@gmail.com) (week 1)
- -  [Alexander Uzhanin](mailto:alex.ustyuzhanin98@yandex.ru) (week 2, data science competition )
- -  [Sergey Korpachev](mailto:korpachev.ss@phystech.edu)
+ -  week 1: [Irina Kitova](mailto:eremchuki@gmail.com) or better via Telegram app @irina_kitova
+ -  week 2, 1st competition: [Alexander Uzhanin](mailto:alex.ustyuzhanin98@yandex.ru) 
+ -  2nd competition: [Sergey Korpachev](mailto:korpachev.ss@phystech.edu)
