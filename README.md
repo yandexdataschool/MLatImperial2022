@@ -18,6 +18,6 @@ To learn how to download materials from this page, install python, run jupyter n
  -  [Victor Kitov](mailto:v.v.kitov@yandex.ru), better text via Telegram app @VictorKitov.
 
 ### Practical session instructors:
- -  week 1: [Irina Kitova](mailto:eremchuki@gmail.com), better via Telegram app @irina_kitova
+ -  week 1: [Irina Kitova](mailto:eremchuki@gmail.com), better text via Telegram app @irina_kitova
  -  week 2, 1st competition: [Alexander Uzhanin](mailto:alex.ustyuzhanin98@yandex.ru) 
  -  2nd competition: [Sergey Korpachev](mailto:korpachev.ss@phystech.edu)
