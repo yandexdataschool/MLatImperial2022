@@ -11,7 +11,7 @@ Please familiarize yourself with the [following brief introduction to Python and
 ## Contacts
 
 ### Lecturer:
- -  [Victor Kitov](mailto:v.v.kitov@yandex.ru) or better text via Telegram '''@VictorKitov'''.
+ -  [Victor Kitov](mailto:v.v.kitov@yandex.ru) or better text via Telegram '@VictorKitov'.
 
 ### Practical session instructors:
  -  [Irina Kitova](mailto:eremchuki@gmail.com)
