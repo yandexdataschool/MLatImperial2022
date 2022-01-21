@@ -1,1 +1,1 @@
-# Seminar materials (Jupyter notebooks).
+# Seminar materials (Jupyter notebooks)

@@ -1,1 +1,1 @@
-# Data used in seminars.
+# Data used in seminars

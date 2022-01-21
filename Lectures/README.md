@@ -1,1 +1,1 @@
-# Lecture materials.
+# Lecture materials
