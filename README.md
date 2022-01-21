@@ -1,4 +1,4 @@
-# Welcome to the course!
+# Machine Learning & Deep Learning Course at ICL
 
 [Open this repo in Colab](https://colab.research.google.com/github/yandexdataschool/MLatImperial2022)
 
