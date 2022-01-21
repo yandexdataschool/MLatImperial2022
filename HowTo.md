@@ -21,3 +21,15 @@ Now you have created `MLatImperial2022` folder, which is  your local copy of the
 #### Update to the changes
 Switch to `MLatImperial2022` folder you created and type `git pull` in terminal.
 
+## Install Python & Jupyter notebook locally
+
+Doanload [Anaconda package](https://www.anaconda.com/products/individual).
+
+## Run Jupyter notebook
+
+In terminal type `jupyter notebook`.
+
+You may specify the directory, where the notebook will look for your code files: `jupyter notebook --notebook-dir=/absolute/path/to/your/code/files`
+
+Also you may launch jupyter notebook via GUI interface from [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/overview/).
+
