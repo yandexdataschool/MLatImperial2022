@@ -8,7 +8,7 @@
 ## Prerequisites
 Please familiarize yourself with the [following brief introduction to Python and Google Colab](https://colab.research.google.com/github/yandexdataschool/MLatImperial2022/blob/master/Seminars/00-Welcome.ipynb) **prior to the start of the course**. It covers briefly the main syntax of python programming language, that we'll use throughtout the course.
 
-Alternatively you can open `Seminars/00-Welcome.ipynb` locally on your computer via `Jupyer notebook`.
+Alternatively you can open `Seminars/00-Welcome.ipynb` locally on your computer via `Jupyter notebook`.
 
 To learn how to download materials from this page, install python, run jupyter notebook locally, please read [HowTo materials](HowTo.md).
 
