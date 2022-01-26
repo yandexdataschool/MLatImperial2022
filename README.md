@@ -2,8 +2,8 @@
 
 [Open available labs in Colab](https://colab.research.google.com/github/yandexdataschool/MLatImperial2022)
 
-## Documents
-[Send your feedback](https://docs.google.com/document/d/1tBALlnoaxBQLUCEO6bhgVKyiymK7lnzp5DtA3StBOao/edit?usp=sharing)
+## Feedback
+[Text your feedback here](https://docs.google.com/document/d/1tBALlnoaxBQLUCEO6bhgVKyiymK7lnzp5DtA3StBOao/edit?usp=sharing)
 
 ## Prerequisites
 Please familiarize yourself with the [following brief introduction to Python and Google Colab](https://colab.research.google.com/github/yandexdataschool/MLatImperial2022/blob/master/Seminars/00-Welcome.ipynb) **prior to the start of the course**. It covers briefly the main syntax of python programming language, that we'll use throughtout the course.
